@@ -8,6 +8,7 @@
  * Helper function
  * Prints the binary representation of integer x
  */
+
 void print_binary(int x) {
   int i;
   // start at MSB and go backwards (decrement)
