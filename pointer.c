@@ -1,5 +1,6 @@
 /*
   Lab 2(Data Lab  - Pointers)
+  
  *
  * <PLEASE REPLACE THIS LINE WITH YOUR NAME AND STUDENT USERNAME>
  *
